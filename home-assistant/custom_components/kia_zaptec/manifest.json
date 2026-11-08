@@ -1,0 +1,13 @@
+{
+  "domain": "kia_zaptec",
+  "name": "Kia + Zaptec Laden",
+  "codeowners": ["@sven-relies"],
+  "config_flow": true,
+  "documentation": "https://github.com/sven-relies/home-assistant-integrations/blob/main/docs/kia_zaptec.md",
+  "integration_type": "hub",
+  "iot_class": "cloud_polling",
+  "issue_tracker": "https://github.com/sven-relies/home-assistant-integrations/issues",
+  "loggers": ["hyundai_kia_connect_api"],
+  "requirements": ["hyundai_kia_connect_api>=5.1.1"],
+  "version": "0.2.0"
+}
